@@ -15,8 +15,8 @@
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 - Renan 4
 didn't thoroughly confirm if written date for sprint is start or end date
-- Bob 2
-no communication so far
+- Bob 3
+Joined meetings, but mostly listened
 - Noel 5
 designing the ui and somewhat active
 - Delara 4
