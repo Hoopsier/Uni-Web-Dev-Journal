@@ -3,20 +3,26 @@
 ----
 ## Links
 - Link(s) to Group activities: 
-  - 
-  - 
+  -  Activities: https://github.com/Hoopsier/UniMajorWebDev
+  -  Project: https://github.com/Hoopsier/Group-Project-Uni-Web-Dev
 - Links to Pair programming: 
-  - 
+  -  Front-end: https://github.com/Hoopsier/PairProgramming-w2-wed-p1
   - 
 
 ----
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
-
-- Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+- Renan 4
+didn't thoroughly confirm if written date for sprint is start or end date
+- Bob 2
+no communication so far
+- Noel 5
+designing the ui and somewhat active
+- Delara 4
+Not too social for PO, but will work after giving a push
+- Dornaraj 4
+not enough info to give 5 or lower than 4
 
 ----
 
@@ -26,46 +32,46 @@ Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+[Teacher wasn't clear enough on whether or not sprint date was due date or start date.]
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+[Tasks went well enough. Learned to do react and express modularly.]
 
 - Key Learning:
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
+[Modular web objects with react. Social skills.]
 
 - Online Resources:
 
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+[course git repo.]
 
 ### Coping Strategies:
 
 
 - Academic Progress:
 
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
+[Improved in understanding React, JS, and Node]
 
 - Soft Skills Development:
 
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+[Improved in pushing myself to start doing tasks.]
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+[So far no agile has been done other than w2 friday.]
 
 ### Final Thoughts:
-
+couldn't have said it better myself v
 Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+[Get sprint 1 done, by utilizing everyone's skills.]
 
 
 <!-- Links -->
-[criticism and constructive feedback]:https://www.coffeepals.com/blog/feedback-vs-criticism-a-managers-guide-to-constructive-communication
+<!--[criticism and constructive feedback]:https://www.coffeepals.com/blog/feedback-vs-criticism-a-managers-guide-to-constructive-communication-->
 
 
 
