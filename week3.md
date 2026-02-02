@@ -3,20 +3,22 @@
 ----
 ## Links
 - Link(s) to Group activities: 
-  - 
+  - https://github.com/Hoopsier/UniMajorWebDev
   - 
 - Links to Pair programming: 
-  - 
-  - 
+  - https://github.com/Hoopsier/pp3-front
+  - https://github.com/Hoopsier/PairProgramming-W3-Backend
+  - https://github.com/dalife001/PairProgramming3
 
 ----
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
-
-- Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+Renan: 3, I got sick and failed to mention it to the group.
+Delara: 4, Did well, but I doubt she knew about the 50h/w expectation either.
+Dornaraj: 5, Worked well with others
+Noel: 5, Not too active, but worked well with Dornaraj
+Bob: ?, not enough info on this week due to storming phase.
 
 ----
 
@@ -26,42 +28,42 @@ Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+[Stress grew exponentially during the span of week 3.]
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+[Pair programming got easier to deal with overall. Gained some experience in react and node.]
 
 - Key Learning:
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
+[Learned the time expectation for this course. This will force me to do more, and by doing that I will learn more as well. Especially in time management.]
 
 - Online Resources:
 
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+[GeeksForGeeks, homework]
 
 ### Coping Strategies:
 
 
 - Academic Progress:
 
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
+[I no longer need documentation by my side for basic React and Node coding.]
 
 - Soft Skills Development:
 
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+[Social skills greatly improved upon.]
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+[Had difficulties in project management, which lead to it be rethought.]
 
 ### Final Thoughts:
 
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm committed to continue building my skills and knowledge. - needs no additions other than exited -> committed.
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+[Studying ahead is my next step. With this new time spending requirement, I can spend a lot more gaining confidence in learning progress.]
 
 
 <!-- Links -->
