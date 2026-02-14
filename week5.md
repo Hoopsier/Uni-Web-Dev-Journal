@@ -3,20 +3,21 @@
 ----
 ## Links
 - Link(s) to Group activities: 
-  - 
+  - https://github.com/Hoopsier/UniMajorWebDev
   - 
 - Links to Pair programming: 
-  - 
-  - 
+  - https://github.com/Hoopsier/be-pp5
+  - https://github.com/Minoo-YH/week5-w-pair-programing
 
 ----
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
-
-- Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+Renan 5: no effort to elaborate
+Delara 3: Tried shifting blame of PO issues
+Dornaraj 5,
+Noel 4: could be more active in communication outside of meetings
+Bob 1: hadn't done anything the past month apparently. But hey, I'm not the guy who cares about the holes in Agile Manifesto.
 
 ----
 
@@ -26,42 +27,42 @@ Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+[Product owner didn't do PO stuff even after being asked to. A guy just lied instead of doing work the past month. AI was used in images without listing source as AI.]
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+[The frontend seemed to get to a presentable point, without me needing to take over from the backend. Teamwork works in a functional team.]
 
 - Key Learning:
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
+[LLM AI can be limited to only give a specific datapoint, even if it has a 60% chance of failure.]
 
 - Online Resources:
 
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+[geeks for geeks, homework]
 
 ### Coping Strategies:
 
 
 - Academic Progress:
 
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
+[Sprint 2 is done and it didn't go too badly even without a product owner or one developer's contributions.]
 
 - Soft Skills Development:
 
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+[I know how to be a little bit more intimidating or something idfk.]
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+[I don't want to talk about the holes in the manifesto. But I did hold all scrum meetings every week day, which did or did not assist someone in starting to work.]
 
 ### Final Thoughts:
 
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to go on break from this dreadful yet useful learning experience.
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+[For week 6 I'll be fixing the AI, upgrading the restaurant backend, and learning the stuff taught in class.]
 
 
 <!-- Links -->
