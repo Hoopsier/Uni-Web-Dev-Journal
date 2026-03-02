@@ -1,5 +1,5 @@
 # Journal
-
+# BE SURE TO NOTE: that in week 6 frontend pair programming I lost the commit of iteration 6 (signup, login, navbar) due to a bug git.
 ----
 ## Links
 - Link(s) to Group activities: 
